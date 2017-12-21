@@ -1,0 +1,7 @@
+﻿  main.cpp
+d:\dz\opengl2\main.cpp(54): warning C4305: +=: усечение из "double" к "float"
+d:\dz\opengl2\main.cpp(70): warning C4305: аргумент: усечение из "double" к "GLfloat"
+d:\dz\opengl2\main.cpp(75): warning C4305: аргумент: усечение из "double" к "GLfloat"
+d:\dz\opengl2\main.cpp(98): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+d:\dz\opengl2\main.cpp(98): warning C4305: инициализация: усечение из "double" к "GLfloat"
+  OpenGL2.vcxproj -> D:\DZ\OpenGL2\Debug\OpenGL2.exe
